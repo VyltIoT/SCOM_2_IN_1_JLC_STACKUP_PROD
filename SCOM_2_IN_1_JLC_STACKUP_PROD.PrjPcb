@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
+AutoSheetNumbering=1
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XVGXGPOR
 
 [Document10]
-DocumentPath=SCOM_2_IN_1_JLC_STACKUP.PcbDoc
+DocumentPath=SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XOXQBUEI
 
 [Document11]
-DocumentPath=SCOM_2_IN_1_JLC_STACKUP.OutJob
+DocumentPath=SCOM_2_IN_1_JLC_STACKUP_PROD.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UAMSRTXW
 
 [Document15]
-DocumentPath=SCOM_2_IN_1_JLC_STACKUP.BomDoc
+DocumentPath=SCOM_2_IN_1_JLC_STACKUP_PROD.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -509,16 +509,16 @@ DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project
-Value=SCOM_2_IN_1
+Name=SheetTotal
+Value=8
 
 [Parameter2]
 Name=Rev
 Value=1.0
 
 [Parameter3]
-Name=SheetTotal
-Value=8
+Name=Project
+Value=SCOM_2_IN_1
 
 [Configuration1]
 Name=Sources

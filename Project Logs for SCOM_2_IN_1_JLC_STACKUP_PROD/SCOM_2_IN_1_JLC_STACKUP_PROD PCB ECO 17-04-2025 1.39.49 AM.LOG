@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=MODEM_ANT_LTE Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=MODEM_ANT_LTE Pin=R22-2
+Removed Member From Class: ClassName=MODEM_PT1 Member=C17
+Removed Member From Class: ClassName=MODEM_PT1 Member=C18
+Removed Member From Class: ClassName=MODEM_PT1 Member=R22
+Removed Member From Class: ClassName=ANT_50R Member=NetC18_2
+Added Pin To Net: NetName=MODEM_ANT_LTE Pin=J3-3
+Change Class Name : Old Net Name=C17_Nets New Net Name=J3_Nets
