@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=R43-1
+Removed Member From Class: ClassName=MODEM_PT2 Member=R43
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USBBOOT
+Added Pin To Net: NetName=NetM1_115 Pin=M1-115
+Added Net: Name=NetM1_115
+Added Member To Class: ClassName=MCU Member=Component C50 MLCC_0805
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_115

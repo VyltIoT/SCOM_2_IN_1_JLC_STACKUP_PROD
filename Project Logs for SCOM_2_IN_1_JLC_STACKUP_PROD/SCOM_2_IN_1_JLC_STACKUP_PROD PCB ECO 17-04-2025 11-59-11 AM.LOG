@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Member From Class: ClassName=D5_Nets Member=GND
+Removed Member From Class: ClassName=D6_Nets Member=GND
+Removed Member From Class: ClassName=D5_Nets Member=NetD5_2
+Removed Member From Class: ClassName=R34_Nets Member=NetD5_2
+Removed Member From Class: ClassName=D6_Nets Member=NetD6_2
+Removed Member From Class: ClassName=R36_Nets Member=NetD6_2
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=D5-2
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=D6-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R34-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R36-1
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=D5_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=D6_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=D5_Nets Member=Wire NetD5_1
+Added Member To Class: ClassName=R34_Nets Member=Wire NetD5_1
+Added Member To Class: ClassName=D6_Nets Member=Wire NetD6_1
+Added Member To Class: ClassName=R36_Nets Member=Wire NetD6_1

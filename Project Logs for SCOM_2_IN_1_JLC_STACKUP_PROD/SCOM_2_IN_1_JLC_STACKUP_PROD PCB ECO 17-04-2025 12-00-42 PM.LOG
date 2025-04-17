@@ -1,0 +1,16 @@
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED_1206"; UniqueID = "\ULCBOJPW" ("\ULCBOJPW")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LED_1206"; UniqueID = "\DEGDQWXX" ("\DEGDQWXX")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "LED_1206"; UniqueID = "\SJSXSIHB" ("\SJSXSIHB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED_1206"; UniqueID = "\FWXQNHLV" ("\FWXQNHLV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"

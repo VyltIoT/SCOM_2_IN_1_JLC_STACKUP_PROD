@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3V3 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=3V3 Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Member From Class: ClassName=STORAGE Member=C25
+Removed Member From Class: ClassName=STORAGE Member=C28
+Added Member To Class: ClassName=MODEM_PT1 Member=Component J4 MUP-7801-1

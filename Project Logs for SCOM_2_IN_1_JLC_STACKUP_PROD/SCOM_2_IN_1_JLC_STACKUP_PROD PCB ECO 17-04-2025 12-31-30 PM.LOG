@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C22 Old Footprint=CAPC2012X13L New Footprint=CAPC1608X10N
+Change Component Comment : Designator=C22 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC2012X13L"; UniqueID = "\NMCESGFO" ("\NMCESGFO")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF/0603"; VariantName = "[No Variations]"

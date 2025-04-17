@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Member From Class: ClassName=MODEM_PT1 Member=C24
+Removed Member From Class: ClassName=J4_Nets Member=NetC24_1
+Removed Member From Class: ClassName=R24_Nets Member=NetC24_1
+Added Component: Designator=C17(CAPC1608X10N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF/0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=J4-C2
+Added Pin To Net: NetName=NetC17_1 Pin=R24-1
+Added Net: Name=NetC17_1
+Added Class: Name=C17_Nets
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C17 ERP_102-1
+Added Member To Class: ClassName=J4_Nets Member=Wire NetC17_1
+Added Member To Class: ClassName=R24_Nets Member=Wire NetC17_1
