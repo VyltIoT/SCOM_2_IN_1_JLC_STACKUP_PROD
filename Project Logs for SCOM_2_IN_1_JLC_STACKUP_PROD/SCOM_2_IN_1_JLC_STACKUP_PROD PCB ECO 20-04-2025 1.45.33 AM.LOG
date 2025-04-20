@@ -1,0 +1,23 @@
+Added Component: Designator=J8(TB_PLUG_5.08P_3P)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(TB_PLUG_5.08P_4P)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TEMP_SENSOR Pin=J8-1
+Added Pin To Net: NetName=3V3 Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=3V3 Pin=J10-1
+Added Pin To Net: NetName=SDA Pin=J10-2
+Added Pin To Net: NetName=SCL Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Member To Class: ClassName=MCU Member=Component J8 Terminal_Block_3Pin_5.08P
+Added Member To Class: ClassName=MCU Member=Component J10 Terminal_Block_4Pin_5.08P
