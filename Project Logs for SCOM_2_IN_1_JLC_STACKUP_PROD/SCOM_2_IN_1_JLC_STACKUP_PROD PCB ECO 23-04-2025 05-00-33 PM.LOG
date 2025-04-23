@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Member From Class: ClassName=POWER Member=R9
+Removed Member From Class: ClassName=POWER Member=R12
+Removed Member From Class: ClassName=M2_Nets Member=BATT_CHRG_LV
+Removed Member From Class: ClassName=U1_Nets Member=BATT_CHRG
+Added Pin To Net: NetName=NetM2_4 Pin=M2-4
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Net: Name=NetU1_15
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_4
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_15

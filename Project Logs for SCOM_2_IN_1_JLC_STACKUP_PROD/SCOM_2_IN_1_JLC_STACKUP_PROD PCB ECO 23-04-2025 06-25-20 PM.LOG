@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=RTC_INT New Net Name=NetR46_1
+Added Class: Name=R46_Nets
+Added Member To Class: ClassName=MCU Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetR46_1

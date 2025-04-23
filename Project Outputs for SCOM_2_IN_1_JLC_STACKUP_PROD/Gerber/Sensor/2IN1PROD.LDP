@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\SCOM_2_IN_1_JLC_STACKUP_PROD\SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2in1prod.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=2in1prod-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

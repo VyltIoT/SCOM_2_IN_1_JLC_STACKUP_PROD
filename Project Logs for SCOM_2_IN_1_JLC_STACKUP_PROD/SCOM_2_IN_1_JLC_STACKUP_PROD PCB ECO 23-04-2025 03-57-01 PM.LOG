@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=TP5100_VREG Pin=R7-1
+Removed Pin From Net: NetName=TP5100_VREG Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Member From Class: ClassName=POWER Member=R6
+Removed Member From Class: ClassName=POWER Member=R7
+Removed Member From Class: ClassName=POWER Member=R10
+Removed Member From Class: ClassName=POWER Member=R11
+Removed Member From Class: ClassName=POWER Member=R13
+Removed Member From Class: ClassName=J2_Nets Member=BATT_NTC
+Removed Member From Class: ClassName=U1_Nets Member=NetR6_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR7_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR11_1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=TP5100_VREG Pin=U1-13
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Member To Class: ClassName=J2_Nets Member=Wire NetJ2_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_6

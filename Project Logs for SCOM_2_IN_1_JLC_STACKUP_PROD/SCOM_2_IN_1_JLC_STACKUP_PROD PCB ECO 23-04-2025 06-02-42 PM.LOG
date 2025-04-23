@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MODEM_UART0_TX Pin=U4-4
+Removed Pin From Net: NetName=MODEM_UART0_RX Pin=U4-5
+Removed Pin From Net: NetName=LTE_TX Pin=U4-16
+Removed Pin From Net: NetName=LTE_RX Pin=U4-17
+Added Pin To Net: NetName=MODEM_UART0_RX Pin=U4-4
+Added Pin To Net: NetName=MODEM_UART0_TX Pin=U4-5
+Added Pin To Net: NetName=LTE_RX Pin=U4-16
+Added Pin To Net: NetName=LTE_TX Pin=U4-17
