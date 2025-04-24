@@ -1,0 +1,255 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=MODEM_ANT_LTE Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=3V3 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=3V3 Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=3V3 Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=3V3 Pin=C53-1
+Removed Pin From Net: NetName=GND Pin=C53-2
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=TP5100_VREG Pin=R7-1
+Removed Pin From Net: NetName=TP5100_VREG Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=MODEM_ANT_LTE Pin=R22-2
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=R43-1
+Removed Pin From Net: NetName=MODEM_UART0_TX Pin=U4-4
+Removed Pin From Net: NetName=MODEM_UART0_RX Pin=U4-5
+Removed Pin From Net: NetName=MODEM_NRDY_STAT Pin=U4-7
+Removed Pin From Net: NetName=LTE_TX Pin=U4-16
+Removed Pin From Net: NetName=LTE_RX Pin=U4-17
+Removed Member From Class: ClassName=STORAGE Member=C25
+Removed Member From Class: ClassName=STORAGE Member=C28
+Removed Member From Class: ClassName=MODEM_PT2 Member=C30
+Removed Member From Class: ClassName=MODEM_PT2 Member=C32
+Removed Member From Class: ClassName=MCU Member=C53
+Removed Member From Class: ClassName=MODEM_PT2 Member=Q4
+Removed Member From Class: ClassName=POWER Member=R6
+Removed Member From Class: ClassName=POWER Member=R7
+Removed Member From Class: ClassName=POWER Member=R9
+Removed Member From Class: ClassName=POWER Member=R10
+Removed Member From Class: ClassName=POWER Member=R11
+Removed Member From Class: ClassName=POWER Member=R12
+Removed Member From Class: ClassName=POWER Member=R13
+Removed Member From Class: ClassName=POWER Member=R19
+Removed Member From Class: ClassName=MODEM_PT1 Member=R22
+Removed Member From Class: ClassName=MODEM_PT2 Member=R42
+Removed Member From Class: ClassName=MODEM_PT2 Member=R43
+Removed Member From Class: ClassName=POWER Member=TP5
+Removed Member From Class: ClassName=MODEM_PT2 Member=TP7
+Removed Member From Class: ClassName=M2_Nets Member=BATT_CHRG_LV
+Removed Member From Class: ClassName=U1_Nets Member=BATT_CHRG
+Removed Member From Class: ClassName=J2_Nets Member=BATT_NTC
+Removed Member From Class: ClassName=D5_Nets Member=GND
+Removed Member From Class: ClassName=D6_Nets Member=GND
+Removed Member From Class: ClassName=R22_Nets Member=MODEM_ANT_LTE
+Removed Member From Class: ClassName=R42_Nets Member=MODEM_PWR_CTRL
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USBBOOT
+Removed Member From Class: ClassName=ANT_50R Member=NetC18_2
+Removed Member From Class: ClassName=C18_Nets Member=NetC18_2
+Removed Member From Class: ClassName=J3_Nets Member=NetC18_2
+Removed Member From Class: ClassName=R22_Nets Member=NetC18_2
+Removed Member From Class: ClassName=J4_Nets Member=NetC23_1
+Removed Member From Class: ClassName=R25_Nets Member=NetC23_1
+Removed Member From Class: ClassName=C24_Nets Member=NetC24_1
+Removed Member From Class: ClassName=J4_Nets Member=NetC24_1
+Removed Member From Class: ClassName=R24_Nets Member=NetC24_1
+Removed Member From Class: ClassName=D5_Nets Member=NetD5_2
+Removed Member From Class: ClassName=R34_Nets Member=NetD5_2
+Removed Member From Class: ClassName=D6_Nets Member=NetD6_2
+Removed Member From Class: ClassName=R36_Nets Member=NetD6_2
+Removed Member From Class: ClassName=Q1_Nets Member=NetQ1_1
+Removed Member From Class: ClassName=R42_Nets Member=NetQ4_1
+Removed Member From Class: ClassName=R40_Nets Member=NetQ4_3
+Removed Member From Class: ClassName=U5_Nets Member=NetQ4_3
+Removed Member From Class: ClassName=U1_Nets Member=NetR6_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR7_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR11_1
+Removed Member From Class: ClassName=U4_Nets Member=NetU4_6
+Removed Member From Class: ClassName=U4_Nets Member=NetU4_8
+Removed Member From Class: ClassName=U4_Nets Member=NetU4_13
+Removed Member From Class: ClassName=U4_Nets Member=NetU4_15
+Removed Member From Class: ClassName=R46_Nets Member=RTC_INT
+Removed Member From Class: ClassName=U6_Nets Member=RTC_INT
+Change Component Footprint: Designator=C17 Old Footprint=CAPC0603X03L New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=C18 Old Footprint=CAPC0603X03L New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=C23 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C24 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C21 Old Footprint=CAPC2012X13L New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=C22 Old Footprint=CAPC2012X13L New Footprint=CAPC1608X10N
+Change Component Footprint: Designator=R42 Old Footprint=RES_0603 New Footprint=RESC0603X03L
+Change Component Footprint: Designator=R22 Old Footprint=RESC0603X03L New Footprint=RES_0603
+Change Component Comment : Designator=U5 Old Comment=MIC2930 New Comment=LM39302
+Change Component Comment : Designator=C21 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C22 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C23 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Comment : Designator=C24 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP5
+Change Component Kind : Designator=C18 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C17 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C24 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C23 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAPC0603X03L"; UniqueID = "\PHVEQTFN" ("\PHVEQTFN")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC0603X03L"; UniqueID = "\CXHAKNZG" ("\CXHAKNZG")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC2012X13L"; UniqueID = "\LOFDVJYL" ("\LOFDVJYL")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC2012X13L"; UniqueID = "\NMCESGFO" ("\NMCESGFO")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAPC2012X13L"; UniqueID = "\BCMPCGFX" ("\BCMPCGFX")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC2012X13L"; UniqueID = "\BJWLQCGN" ("\BJWLQCGN")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED_1206"; UniqueID = "\ULCBOJPW" ("\ULCBOJPW")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LED_1206"; UniqueID = "\DEGDQWXX" ("\DEGDQWXX")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "LED_1206"; UniqueID = "\SJSXSIHB" ("\SJSXSIHB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED_1206"; UniqueID = "\FWXQNHLV" ("\FWXQNHLV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC0603X03L"; UniqueID = "\MJUHYSVY" ("\MJUHYSVY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "RES_0603"; UniqueID = "\ORBLSMDZ" ("\ORBLSMDZ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=MODEM_ANT_LTE Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=D5-2
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=D6-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=ADAP_DET_LV Pin=R22-1
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=MODEM_ANT_LTE Pin=R42-2
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=TP5100_VREG Pin=U1-13
+Added Pin To Net: NetName=MODEM_UART0_RX Pin=U4-4
+Added Pin To Net: NetName=MODEM_UART0_TX Pin=U4-6
+Added Pin To Net: NetName=MODEM_NRDY_STAT Pin=U4-8
+Added Pin To Net: NetName=LTE_RX Pin=U4-15
+Added Pin To Net: NetName=LTE_TX Pin=U4-17
+Change Net Name : Old Net Name=MODEM_NRDY_STAT_3V3 New Net Name=NetU4_14
+Change Net Name : Old Net Name=RTC_INT New Net Name=NetR46_1
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=M2-4
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=U4-13
+Added Net: Name=MODEM_NRDY_STAT_3V3
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=J4-C2
+Added Pin To Net: NetName=NetC17_1 Pin=R24-1
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=J4-C3
+Added Pin To Net: NetName=NetC18_1 Pin=R25-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=J3-3
+Added Pin To Net: NetName=NetC24_2 Pin=R42-1
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R34-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R36-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetM1_115 Pin=M1-115
+Added Net: Name=NetM1_115
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U5-1
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU4_7 Pin=U4-7
+Added Net: Name=NetU4_7
+Added Pin To Net: NetName=NetU4_16 Pin=U4-16
+Added Net: Name=NetU4_16
+Change Class Name : Old Net Name=C17_Nets New Net Name=C23_Nets
+Change Class Name : Old Net Name=TP8_Nets New Net Name=TP5_Nets
+Added Class: Name=C17_Nets
+Added Member To Class: ClassName=POWER Member=Component R22 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component TP7 TP_1MM
+Added Member To Class: ClassName=R22_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R22_Nets Member=Wire ADAP_DET_LV
+Added Member To Class: ClassName=Q1_Nets Member=Wire GND
+Added Member To Class: ClassName=R42_Nets Member=Wire MODEM_ANT_LTE
+Added Member To Class: ClassName=M2_Nets Member=Wire MODEM_NRDY_STAT_3V3
+Added Member To Class: ClassName=D5_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=D6_Nets Member=Wire MODEM_VDDEXT
+Added Member To Class: ClassName=J4_Nets Member=Wire NetC17_1
+Added Member To Class: ClassName=R24_Nets Member=Wire NetC17_1
+Added Member To Class: ClassName=C18_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=J4_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=R25_Nets Member=Wire NetC18_1
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC24_2
+Added Member To Class: ClassName=C24_Nets Member=Wire NetC24_2
+Added Member To Class: ClassName=J3_Nets Member=Wire NetC24_2
+Added Member To Class: ClassName=R42_Nets Member=Wire NetC24_2
+Added Member To Class: ClassName=D5_Nets Member=Wire NetD5_1
+Added Member To Class: ClassName=R34_Nets Member=Wire NetD5_1
+Added Member To Class: ClassName=D6_Nets Member=Wire NetD6_1
+Added Member To Class: ClassName=R36_Nets Member=Wire NetD6_1
+Added Member To Class: ClassName=J2_Nets Member=Wire NetJ2_2
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_115
+Added Member To Class: ClassName=R40_Nets Member=Wire NetR40_2
+Added Member To Class: ClassName=U5_Nets Member=Wire NetR40_2
+Added Member To Class: ClassName=R46_Nets Member=Wire NetR46_1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetR46_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_6
+Added Member To Class: ClassName=U1_Nets Member=Wire NetU1_15
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_5
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_7
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_14
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_16

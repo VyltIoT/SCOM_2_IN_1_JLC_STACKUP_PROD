@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MODEM_NRDY_STAT_3V3 Pin=U4-14
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_NRDY_STAT_3V3
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_NRDY_STAT
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_NRDY_STAT
+Added Pin To Net: NetName=NetM1_61 Pin=M1-61
+Added Net: Name=NetM1_61
+Added Pin To Net: NetName=NetU4_7 Pin=U4-7
+Added Net: Name=NetU4_7
+Added Pin To Net: NetName=NetU4_14 Pin=U4-14
+Added Net: Name=NetU4_14
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_61
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_7
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_14

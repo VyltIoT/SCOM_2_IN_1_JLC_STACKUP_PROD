@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=M2_Nets Member=NetU4_14
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component TP5 TP_1MM
+Added Member To Class: ClassName=M2_Nets Member=Wire MODEM_NRDY_STAT_3V3
+Added Member To Class: ClassName=U4_Nets Member=Wire MODEM_NRDY_STAT_3V3

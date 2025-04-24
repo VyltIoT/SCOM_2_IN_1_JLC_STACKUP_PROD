@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TEMP_SENSOR Pin=J8-1
+Removed Pin From Net: NetName=3V3 Pin=J8-2
+Added Pin To Net: NetName=3V3 Pin=J8-1
+Added Pin To Net: NetName=TEMP_SENSOR Pin=J8-2
