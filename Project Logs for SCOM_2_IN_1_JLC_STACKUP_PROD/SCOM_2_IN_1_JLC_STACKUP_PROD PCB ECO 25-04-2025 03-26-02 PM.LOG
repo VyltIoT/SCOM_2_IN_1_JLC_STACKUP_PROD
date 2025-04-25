@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=LORA_MISO Pin=J11-1
+Removed Pin From Net: NetName=LORA_MOSI Pin=J11-2
+Removed Pin From Net: NetName=LORA_SCLK Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=J11-4
+Removed Pin From Net: NetName=CAN_CS Pin=J11-5
+Removed Pin From Net: NetName=5V0 Pin=J11-6
+Change Component Footprint: Designator=J11 Old Footprint=6PX2R_M_SMD New Footprint=6PX1R_F
+Change Component Comment : Designator=J11 Old Comment=6PX2R_M New Comment=ERP_148-2
+Added Pin To Net: NetName=CAN_CS Pin=J11-1
+Added Pin To Net: NetName=5V0 Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=LORA_MOSI Pin=J11-4
+Added Pin To Net: NetName=LORA_SCLK Pin=J11-5
+Added Pin To Net: NetName=LORA_MISO Pin=J11-6

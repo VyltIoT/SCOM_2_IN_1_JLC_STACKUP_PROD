@@ -1,0 +1,10 @@
+Change component parameters: Designator = "J12" ("J12"); Footprint = "3PX1R_THT"; UniqueID = "\ZSFJEUWK" ("\ZSFJEUWK")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C49257"; VariantName = "[No Variations]"
+Added Component: Designator=J13(Jumper Cap)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=J13_Nets
+Added Member To Class: ClassName=MCU Member=Component J13 Jumper Cap

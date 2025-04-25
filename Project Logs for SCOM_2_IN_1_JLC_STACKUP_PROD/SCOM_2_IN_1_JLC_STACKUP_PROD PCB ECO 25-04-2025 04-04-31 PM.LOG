@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=LORA_CS Pin=M2-23
+Removed Member From Class: ClassName=M2_Nets Member=LORA_CS
+Added Component: Designator=J12(3PX1R_THT)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_CS Pin=J12-1
+Added Pin To Net: NetName=LORA_CS Pin=J12-3
+Added Pin To Net: NetName=IO15 Pin=J12-2
+Added Pin To Net: NetName=IO15 Pin=M2-23
+Added Net: Name=IO15
+Added Class: Name=J12_Nets
+Added Member To Class: ClassName=MCU Member=Component J12 3PX1R_M
+Added Member To Class: ClassName=M2_Nets Member=Wire IO15
