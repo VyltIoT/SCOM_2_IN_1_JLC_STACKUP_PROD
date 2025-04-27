@@ -1,0 +1,18 @@
+Added Component: Designator=J14(SCTRM_5P08_3P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Ningbo Xinlaiya Elec."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XY2500F-BV-5.08-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J15(SCTRM_5P08_4P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Ningbo Xinlaiya Elec."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "XY2500F-BV-5.08-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(PH_M_2P54_7P_RA)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "XFCN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PZ254R-11-07P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=J14_Nets
+Added Class: Name=J15_Nets
+Added Class: Name=J16_Nets
+Added Member To Class: ClassName=MCU Member=Component J14 SCTRM_5P08_3P
+Added Member To Class: ClassName=MCU Member=Component J15 SCTRM_5P08_4P
+Added Member To Class: ClassName=MCU Member=Component J16 PH_M_2P54_7P_RA

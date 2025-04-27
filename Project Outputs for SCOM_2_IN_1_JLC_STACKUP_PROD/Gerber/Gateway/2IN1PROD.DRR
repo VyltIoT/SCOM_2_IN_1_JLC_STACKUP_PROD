@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc   27-04-2025  8.17.57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : 2IN1PROD.TXT
+ASCII RectHoles File : 2IN1PROD-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             4         PTH        0.09inch (2.29mm)
+T2      12mil (0.305mm)                                           Round             292       PTH        38.79inch (985.18mm)
+T3      31mil (0.787mm)                                           Round             6         PTH        4.24inch (107.63mm)
+T4      32mil (0.813mm)                                           Round             12        PTH        2.75inch (69.78mm)
+T5      39mil (0.991mm)                                           Rectangle         3         PTH        1.27inch (32.30mm)
+T6      43mil (1.092mm)                                           Round             10        PTH        2.62inch (66.50mm)
+T7      51mil (1.295mm)                                           Round             8         PTH        1.07inch (27.29mm)
+T8      59mil (1.499mm)                                           Round             7         PTH        2.16inch (54.98mm)
+T9      79mil (2.007mm)                                           Round             3         PTH        0.40inch (10.16mm)
+T10     39mil (0.991mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T11     51mil (1.295mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              347
+
+Total Processing Time (hh:mm:ss) : 00.00.00

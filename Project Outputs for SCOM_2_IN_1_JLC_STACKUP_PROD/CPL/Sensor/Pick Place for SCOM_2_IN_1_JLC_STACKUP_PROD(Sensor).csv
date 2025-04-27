@@ -1,19 +1,22 @@
 Altium Designer Pick and Place Locations
-C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\SCOM_2_IN_1_JLC_STACKUP_PROD\Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\CPL\Sensor\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).csv
+C:\Users\Administrator\Documents\GitHub\SCOM_2_IN_1_JLC_STACKUP_PROD\Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\CPL\Sensor\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       25-04-25
-Time:       17:30
-Revision:   8a0069536b4577062512803298eea4df370b9b4c
+Date:       27-04-25
+Time:       20.27
+Revision:   088584fd55577d9dc05326ec5fc6fa605d99d49c
 Variant:    Sensor
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"J13","TopLayer","-331.0000","-44.5000","90","2 Pin Jumper Cap P2.54"
+"J16","TopLayer","106.0000","13.2500","90","Male Pin Header P 5.08mm 7 Pin Right Angle"
+"J15","TopLayer","41.0000","9.0000","90","Screw Terminal Female 4 Pin 5.08mm"
+"J14","TopLayer","21.0000","9.000","90","Screw Terminal Female 3 Pin 5.08mm"
+"J13","TopLayer","78.0000","23.5000","90","2 Pin Jumper Cap P2.54"
 "J12","TopLayer","78.0400","23.0000","180","3PX1R Male Header"
-"J11","TopLayer","76.7500","1.7500","0","6PX1R Female Header"
+"J11","TopLayer","76.2180","1.7500","0","6PX1R Female Header"
 "TP1","TopLayer","17.5000","68.0000","90",""
 "R55","TopLayer","132.0000","33.5210","180","RES_0603"
 "D9","TopLayer","132.0000","23.7500","180","LED CLEAR 1206 SMD"

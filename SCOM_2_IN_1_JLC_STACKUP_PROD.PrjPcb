@@ -378,13 +378,16 @@ UniqueId=db148b2a-a3d7-426a-a3a5-d01f23d79d85
 Description=Gateway
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=9
 Variation1=Designator=M3|UniqueId=\AQMDYHWQ|Kind=1|AlternatePart=
 Variation2=Designator=J8|UniqueId=\GKGTDFEF|Kind=1|AlternatePart=
 Variation3=Designator=R52|UniqueId=\QHHSZVTT|Kind=1|AlternatePart=
 Variation4=Designator=R50|UniqueId=\CWOBOORX|Kind=1|AlternatePart=
 Variation5=Designator=R53|UniqueId=\AQSNAPRM|Kind=1|AlternatePart=
 Variation6=Designator=J10|UniqueId=\BGYCMNAT|Kind=1|AlternatePart=
+Variation7=Designator=J14|UniqueId=\IQBTVYEZ|Kind=1|AlternatePart=
+Variation8=Designator=J15|UniqueId=\MEYGHNVX|Kind=1|AlternatePart=
+Variation9=Designator=J16|UniqueId=\FRVMWJOB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -396,470 +399,582 @@ DocumentPath=https://vylt-my.sharepoint.com/personal/satyam_vylt_in/Documents/Al
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD-RectHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.DRR
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.G1
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.G2
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.G1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.G2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.G2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GKO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM3
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM4
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM5
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM6
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GPB
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GPT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GM
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.LDP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for SCOM_2_IN_1\Design Rule Check - SCOM_2_IN_1.html
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Design Rule Check - SCOM_2_IN_1_JLC_STACKUP.html
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Design Rule Check - SCOM_2_IN_1_JLC_STACKUP_PROD.html
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Design Rule Check - VYLT_IOT_CCM.html
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP.csv
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP.txt
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).csv
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).txt
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP-RectHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.DRR
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.G1
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.G2
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GKO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM3
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM4
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM5
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Gateway\2IN1PROD.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM6
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\2IN1PROD.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GPB
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\BOM\Gateway\Bill of Materials-SCOM_2_IN_1_JLC_STACKUP_PROD(Gateway).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GPT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\BOM\Sensor\Bill of Materials-SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTL
+DocumentPath=Project Outputs for SCOM_2_IN_1\Design Rule Check - SCOM_2_IN_1.html
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Design Rule Check - SCOM_2_IN_1_JLC_STACKUP.html
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Design Rule Check - SCOM_2_IN_1_JLC_STACKUP_PROD.html
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTS
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Design Rule Check - VYLT_IOT_CCM.html
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.LDP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP.csv
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP.txt
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD-RectHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\CPL\Gateway\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Gateway).csv
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD-RectHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\CPL\Gateway\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Gateway).txt
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.DRR
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\CPL\Sensor\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).csv
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.DRR
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).csv
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.G1
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\CPL\Sensor\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).txt
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.G1
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Pick Place\Pick Place for SCOM_2_IN_1_JLC_STACKUP_PROD(Sensor).txt
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.G2
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.G2
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.G1
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.G2
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GKO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GKO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM3
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM3
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM4
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM4
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM5
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM5
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM6
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM6
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP\Gerber\SCOM_2_IN_1_JLC_STACKUP.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GPB
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GPB
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GPT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GPT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.G1
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.G1
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.G2
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.G2
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-RoundHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-SlotHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.DRR
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G1
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G2
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GKO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM3
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM4
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM5
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM6
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPB
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument113]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument114]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTL
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument115]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTO
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument116]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument117]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTS
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument118]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.LDP
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument119]
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G1
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G2
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument147]
 DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.TXT
 DItemRevisionGUID=
 

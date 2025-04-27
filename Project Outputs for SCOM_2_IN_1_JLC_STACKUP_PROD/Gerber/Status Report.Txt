@@ -1,27 +1,27 @@
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [Sensor] of PCB Document [SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GTO]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GTP]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GTS]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GTL]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.G1]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.G2]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GBL]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GBS]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GBP]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GBO]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GM3]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GM4]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GM5]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GM6]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GKO]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GPT]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GPB]
-   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.GM]
+   Generated File[2IN1PROD.GTO]
+   Generated File[2IN1PROD.GTP]
+   Generated File[2IN1PROD.GTS]
+   Generated File[2IN1PROD.GTL]
+   Generated File[2IN1PROD.G1]
+   Generated File[2IN1PROD.G2]
+   Generated File[2IN1PROD.GBL]
+   Generated File[2IN1PROD.GBS]
+   Generated File[2IN1PROD.GBP]
+   Generated File[2IN1PROD.GBO]
+   Generated File[2IN1PROD.GM3]
+   Generated File[2IN1PROD.GM4]
+   Generated File[2IN1PROD.GM5]
+   Generated File[2IN1PROD.GM6]
+   Generated File[2IN1PROD.GKO]
+   Generated File[2IN1PROD.GPT]
+   Generated File[2IN1PROD.GPB]
+   Generated File[2IN1PROD.GM]
 
 
 Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 05:31:05 PM On 25-04-2025
+Finished Output Generation At 8.27.34 PM On 27-04-2025
