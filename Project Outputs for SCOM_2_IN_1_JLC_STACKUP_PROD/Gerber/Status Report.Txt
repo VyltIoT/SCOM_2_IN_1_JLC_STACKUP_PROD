@@ -1,6 +1,6 @@
 Output: Gerber Files
 Type  : Gerber
-From  : Variant [Sensor] of PCB Document [SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc]
+From  : PCB Document [SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc]
    Generated File[2IN1PROD.GTO]
    Generated File[2IN1PROD.GTP]
    Generated File[2IN1PROD.GTS]
@@ -24,4 +24,4 @@ From  : Variant [Sensor] of PCB Document [SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc]
 Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 8.27.34 PM On 27-04-2025
+Finished Output Generation At 3.59.48 PM On 29-04-2025

@@ -4,17 +4,17 @@ C:\Users\Administrator\Documents\GitHub\SCOM_2_IN_1_JLC_STACKUP_PROD\Project Out
 ========================================================================================================================
 File Design Information:
 
-Date:       27-04-25
-Time:       20.27
-Revision:   088584fd55577d9dc05326ec5fc6fa605d99d49c
+Date:       29-04-25
+Time:       15.58
+Revision:   b87150447a256d30486ac2bfabf49fa9e871d741
 Variant:    Sensor
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"J16","TopLayer","106.0000","13.2500","90","Male Pin Header P 5.08mm 7 Pin Right Angle"
-"J15","TopLayer","41.0000","9.0000","90","Screw Terminal Female 4 Pin 5.08mm"
-"J14","TopLayer","21.0000","9.000","90","Screw Terminal Female 3 Pin 5.08mm"
-"J13","TopLayer","78.0000","23.5000","90","2 Pin Jumper Cap P2.54"
+"J16","TopLayer","-331.0000","-44.5000","90","Male Pin Header P 5.08mm 7 Pin Right Angle"
+"J15","TopLayer","-331.0000","-44.5000","90","Screw Terminal Female 4 Pin 5.08mm"
+"J14","TopLayer","-331.0000","-44.5000","90","Screw Terminal Female 3 Pin 5.08mm"
+"J13","TopLayer","-331.0000","-44.5000","90","2 Pin Jumper Cap P2.54"
 "J12","TopLayer","78.0400","23.0000","180","3PX1R Male Header"
 "J11","TopLayer","76.2180","1.7500","0","6PX1R Female Header"
 "TP1","TopLayer","17.5000","68.0000","90",""
@@ -94,4 +94,3 @@ Units used: mm
 "C52","TopLayer","65.4690","53.2328","0","Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density"
 "C51","TopLayer","65.5000","54.9929","0","Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density"
 "R22","TopLayer","61.0000","38.5000","90","RES_0603"
-"C21","TopLayer","112.5958","34.2708","270","Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"

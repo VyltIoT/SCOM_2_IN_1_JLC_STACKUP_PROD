@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Gateway
 
 [Preferences]
 PrefsVaultGUID=
@@ -309,7 +310,7 @@ UniqueId=cd56c366-fe77-4f9c-98eb-143039b806cd
 Description=Sensor
 AllowFabrication=1
 ParameterCount=0
-VariationCount=61
+VariationCount=62
 Variation1=Designator=M1|UniqueId=\JZRGGHON|Kind=1|AlternatePart=
 Variation2=Designator=R24|UniqueId=\FGPIUUFX|Kind=1|AlternatePart=
 Variation3=Designator=R25|UniqueId=\KJLRRPNX|Kind=1|AlternatePart=
@@ -371,6 +372,7 @@ Variation58=Designator=U6|UniqueId=\BRKYKXCK|Kind=1|AlternatePart=
 Variation59=Designator=R47|UniqueId=\FAECQUXO|Kind=1|AlternatePart=
 Variation60=Designator=C46|UniqueId=\SKYPTLVA|Kind=1|AlternatePart=
 Variation61=Designator=C45|UniqueId=\BHMZIQWC|Kind=1|AlternatePart=
+Variation62=Designator=C21|UniqueId=\LOFDVJYL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]

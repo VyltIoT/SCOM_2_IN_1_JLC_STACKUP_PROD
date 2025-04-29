@@ -4,9 +4,9 @@ C:\Users\Administrator\Documents\GitHub\SCOM_2_IN_1_JLC_STACKUP_PROD\Project Out
 ========================================================================================================================
 File Design Information:
 
-Date:       27-04-25
-Time:       20.27
-Revision:   088584fd55577d9dc05326ec5fc6fa605d99d49c
+Date:       29-04-25
+Time:       15.58
+Revision:   b87150447a256d30486ac2bfabf49fa9e871d741
 Variant:    Sensor
 Units used: mm
 
@@ -94,4 +94,3 @@ C50        TopLayer 71.0000      61.2000      270      "Chip Capacitor, 2-Leads,
 C52        TopLayer 65.4690      53.2328      0        "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density"                              
 C51        TopLayer 65.5000      54.9929      0        "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density"                              
 R22        TopLayer 61.0000      38.5000      90       RES_0603                                                                                   
-C21        TopLayer 112.5958     34.2708      270      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"                            

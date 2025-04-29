@@ -4,14 +4,14 @@ C:\Users\Administrator\Documents\GitHub\SCOM_2_IN_1_JLC_STACKUP_PROD\Project Out
 ========================================================================================================================
 File Design Information:
 
-Date:       27-04-25
-Time:       20.17
-Revision:   088584fd55577d9dc05326ec5fc6fa605d99d49c
+Date:       29-04-25
+Time:       15.59
+Revision:   b87150447a256d30486ac2bfabf49fa9e871d741
 Variant:    Gateway
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"J13","TopLayer","78.0000","23.5000","90","2 Pin Jumper Cap P2.54"
+"J13","TopLayer","-331.0000","-44.5000","90","2 Pin Jumper Cap P2.54"
 "J12","TopLayer","78.0400","23.0000","180","3PX1R Male Header"
 "J11","TopLayer","76.2180","1.7500","0","6PX1R Female Header"
 "R42","TopLayer","110.1000","84.3370","180","RES_0201"
