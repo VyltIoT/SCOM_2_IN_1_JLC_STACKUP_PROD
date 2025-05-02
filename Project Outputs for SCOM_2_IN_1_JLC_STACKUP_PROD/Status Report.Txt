@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 07:53:40 PM On 02-05-2025
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [SCOM_2_IN_1_JLC_STACKUP_PROD.PcbDoc]
+   Generated File[SCOM_2_IN_1_JLC_STACKUP_PROD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 07:53:57 PM On 02-05-2025

@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Sensor
 
 [Preferences]
 PrefsVaultGUID=
@@ -881,102 +880,106 @@ DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM
 DItemRevisionGUID=
 
 [GeneratedDocument123]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\ExportSTEP\SCOM_2_IN_1_JLC_STACKUP_PROD.step
 DItemRevisionGUID=
 
 [GeneratedDocument124]
-DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument125]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-RoundHoles.TXT
+DocumentPath=Project Outputs for SCOM_2_IN_1_JLC_STACKUP_PROD\Gerber\Sensor\SCOM_2_IN_1_JLC_STACKUP_PROD.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument126]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-SlotHoles.TXT
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument127]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.DRR
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument128]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G1
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument129]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G2
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G1
 DItemRevisionGUID=
 
 [GeneratedDocument130]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBL
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.G2
 DItemRevisionGUID=
 
 [GeneratedDocument131]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBO
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument132]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBP
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument133]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBS
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument134]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GKO
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument135]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument136]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM3
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM
 DItemRevisionGUID=
 
 [GeneratedDocument137]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM4
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument138]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM5
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument139]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM6
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument140]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPB
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument141]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPT
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument142]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTL
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument143]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTO
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument144]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTP
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument145]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTS
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument146]
-DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.LDP
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument147]
+DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument148]
 DocumentPath=Project Outputs for VYLT_IOT_CCM\Gerber\VYLT_IOT_CCM.TXT
 DItemRevisionGUID=
 
